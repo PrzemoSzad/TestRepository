@@ -1,4 +1,8 @@
 test1
+<<<<<<< 77112f468006af46d20ab607088c40bfac2c4f3b
 test2 test 3 test 4
+=======
+test45
+>>>>>>> darek
 test3
 test4
